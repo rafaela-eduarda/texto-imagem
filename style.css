@@ -44,7 +44,7 @@ body{
 .imagem {
     flex: 1;
     text-align: center;
-    background-color: rgb(110, 59, 0);
+    background-color: #571a03;
 }
 
 .imagem img{
