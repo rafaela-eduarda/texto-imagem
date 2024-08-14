@@ -1,7 +1,7 @@
 *{
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
+    box-sizing: border-box; 
 }
 
 body{
@@ -20,7 +20,7 @@ body{
     box-shadow: 0 0 10px rgba(0, 0, 0,0.2);
     border-radius: 5px;
     display: flex;
-    background-color: #571a03;
+    background-color: #fff;
     padding: 10px;
 }
 
@@ -29,7 +29,7 @@ body{
     padding-right: 20px;
     align-self: center;
     padding-left: 2em;
-    background-color: rgb(255, 255, 255);
+    /* background-color: red; */
 }
 
 .texto h2{
@@ -44,12 +44,11 @@ body{
 .imagem {
     flex: 1;
     text-align: center;
-    background-color: #571a03;
+    /* background-color: aqua; */
 }
 
 .imagem img{
     max-width: 100%;
     height: auto;
     border-radius: 8px;
-    width: 50;
 }
